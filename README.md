@@ -3,7 +3,7 @@
 
 
 
-<img src="images/1d4e2d67-0032-4a1d-87b7-25d268e50e2d.JPG" width=400>
+<img src="images/1d4e2d67-0032-4a1d-87b7-25d268e50e2d.JPG" width=340>
 
 
 My name is Brecht van Wijk, I'm 18 years old and currently studying Communication and Multimedia Design in Maastricht.
