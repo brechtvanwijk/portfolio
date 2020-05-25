@@ -1,6 +1,8 @@
 ## Portfolio Brecht
 
-Mijn naam is Brecht
+My name is Brecht van Wijk and I am currently studying Communication and Multimedia Design in Maastricht.
+
+just figuring out what I want to be
 
 ### My Work
 
