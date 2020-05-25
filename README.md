@@ -1,8 +1,12 @@
 ## Portfolio Brecht
 
-![1d4e2d67-0032-4a1d-87b7-25d268e50e2d](https://user-images.githubusercontent.com/55406850/82815153-e278b300-9e98-11ea-87db-733cf582134f.JPG "dit ben ik")
+<img src="images/1d4e2d67-0032-4a1d-87b7-25d268e50e2d.JPG width="100">
 
-My name is Brecht van Wijk and I am currently studying Communication and Multimedia Design in Maastricht.
+<img src="images/GitHub-Mark-120px-plus.png width="100">
+
+
+
+My name is Brecht van Wijk, I'm 18 years old and currently studying Communication and Multimedia Design in Maastricht.
 
 just figuring out what I want to be
 
