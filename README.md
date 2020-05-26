@@ -8,7 +8,6 @@
 
 My name is Brecht van Wijk, I'm 18 years old and currently studying Communication and Multimedia Design in Maastricht.
 
-just figuring out what I want to be
 
 ### My Work
 
